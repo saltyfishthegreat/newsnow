@@ -1,6 +1,4 @@
 name = "newsnow"
-main = "./dist/output/server/index.mjs" # 这是一个猜测的Worker入口，根据你的构建日志而来
-compatibility_date = "2025-05-25"
-compatibility_flags = ["nodejs_compat"] 
+
 [site]
 bucket = "./dist/output/public" # 指定 Pages 静态资产目录
